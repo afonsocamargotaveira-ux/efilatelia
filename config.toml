@@ -1,0 +1,11 @@
+# Coloque este arquivo em  .streamlit/config.toml  (pasta ao lado do app.py)
+[theme]
+base = "light"
+primaryColor = "#D9480F"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F7FC"
+textColor = "#0B1F3A"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
